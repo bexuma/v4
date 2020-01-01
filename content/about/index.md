@@ -3,17 +3,17 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - Ruby
   - React
-  - Vue
-  - Node.js
-  - Express
+  - Ruby on Rails
+  - React Native
   - GraphQL
-  - NativeScript
+  - Amazon Web Services
+  - Apollo Client
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Bexultan, software engineering student at [Karaganda Economic University](https://www.keu.kz/en/), and I love learning! I am fascinated by integrating different services and designing APIs. I develop web and mobile applications with intuitive UX and decent UI.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Currently, looking for SWE 2020 Summer internship opportunities.
 
 Here are a few technologies I've been working with recently:

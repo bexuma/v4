@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+title: 'Hello, my name is'
+name: 'Bexultan Myrzatayev'
+subtitle: '(me, problem) => { Solution }'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a full stack software engineer and a junior SWE student specializing in building web and mobile applications.
