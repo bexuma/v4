@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: 'https://bexuma.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-156828821-1',
-  // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: 'gJHGP_ugiJ7ys0bVHSlYg52uRricPnb3uIpwykjU2VE',
   name: 'Bexultan Myrzatayev',
   location: 'Karaganda, Kazakhstan',
   email: 'youngdeveloper.co@gmail.com',
