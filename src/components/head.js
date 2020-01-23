@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
@@ -72,13 +73,9 @@ const Head = ({ metadata }) => (
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156828821-1"></script>
     <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments)}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-156828821-1');
+      window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments)}
+      gtag('js', new Date()); gtag('config', 'UA-156828821-1');
     </script>
-
   </Helmet>
 );
 
