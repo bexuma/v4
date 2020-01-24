@@ -23,7 +23,6 @@ module.exports = {
       url: 'https://www.linkedin.com/in/bexuma',
     },
   ],
-
   navLinks: [
     {
       name: 'About',
