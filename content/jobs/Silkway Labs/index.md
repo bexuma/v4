@@ -13,4 +13,4 @@ Audio feed mobile application – MVP
 - Implemented playback functionality for the audio feed by utilizing Expo AV API
 - Cooperated with backend engineer to ensure the smooth operation of the Redux store
 
-JavaScript (ES6), React Native, Expo, Redux, Firebase
+Utilized: JavaScript (ES6), React Native, Expo, Redux, Firebase

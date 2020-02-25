@@ -10,4 +10,4 @@ url: 'https://zerotoonelabs.com/'
 - Wrote the boilerplate code for Google Pay setup in React Native
 - ​Engaged in the integration of the local payment processing system ePay in production
 
-Redux, MobX, Google Pay API, ePay, CI/CD, App Center
+Learned: Redux, MobX, Google Pay API, ePay, CI/CD, App Center
