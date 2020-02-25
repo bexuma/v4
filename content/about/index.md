@@ -5,7 +5,7 @@ skills:
   - JavaScript (ES6+)
   - Ruby
   - React
-  - Ruby on Rails
+  - Styled Components
   - React Native
   - GraphQL
   - Amazon Web Services

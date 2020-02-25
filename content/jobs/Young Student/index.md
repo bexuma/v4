@@ -7,9 +7,9 @@ range: 'Jan 2019 – Present'
 url: 'https://sc.youngstudent.co/'
 ---
 
-SaaS SPA for automating student services provided by Karaganda Economic University
+SaaS SPA for automating student services provided by higher educational institutions | MVP
 
-- Cut up to 2 months of working time of students and SSC specialists by processing over two thousand applications through the service
+- Cut up to 3 months of working time of students and SSC specialists by processing over three thousand applications through the service
 - Setup KendoReact PDF to generate pre-filled application document ready to be downloaded as a file with .pdf extension
 - Approved for Amazon SES quota for sending automated emails to notify students of application status updates
 

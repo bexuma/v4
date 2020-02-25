@@ -7,7 +7,7 @@ range: 'May – Sep 2019'
 url: 'https://silkwaylabs.com/'
 ---
 
-Audio feed mobile application – MVP
+Audio feed mobile application | 1st version
 
 - Translated the design of 40+ screens into responsive front-end for iOS and Android devices
 - Implemented playback functionality for the audio feed by utilizing Expo AV API
